@@ -1,2 +1,2 @@
 # c--sharp
-some awesome code of c#
+hi, I am writing some c# programs.
